@@ -1,5 +1,13 @@
 ## MVVM-Dagger2-Room-RxJava2-Retrofit
-This repository contains a detailed sample app that implements MVVM architecture using Dagger2, Room, RxJava2 and Retrofit
+This repository contains a detailed sample app that implements MVVM architecture using Dagger2, Room, RxJava2, DataBinding and Retrofit
+
+# ScreenShots
+
+<p align="center">
+  <img src="https://github.com/OmarAliSaid/MVVM-Dagger2-Room-RxJava2-Retrofit/blob/master/screenshot/Screenshot_0.jpeg" width="200"/>
+  <img src="https://github.com/OmarAliSaid/MVVM-Dagger2-Room-RxJava2-Retrofit/blob/master/screenshot/Screenshot_1.jpeg" width="200"/>
+  <img src="https://github.com/OmarAliSaid/MVVM-Dagger2-Room-RxJava2-Retrofit/blob/master/screenshot/Screenshot_2.jpeg" width="200"/>
+</p>
 
 ### PreRequests
 * closer look on MVVM architecture , you can start <a href="https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b">here</a> 
@@ -17,15 +25,12 @@ This repository contains a detailed sample app that implements MVVM architecture
 
 #### Classes have been designed in such a way that it could be inherited and maximize the code reuse.
 
-## Meta
-
+### Meta
 Android Developer : Omar Ali – [@linkedin](https://www.linkedin.com/in/omarali-s/) – omarali0252@gmail.com
 
+### thanks to MindroksOpenSource team :
+https://github.com/MindorksOpenSource/android-mvvm-architecture
 
-## Contributing
+### Contributing
 
-1. Fork it (<https://github.com/OmarAliSaid/MVVM-Dagger2-Room-RxJava2-Retrofit/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+1. just make a pull request and you are in!
