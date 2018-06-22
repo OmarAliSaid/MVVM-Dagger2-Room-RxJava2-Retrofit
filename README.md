@@ -6,7 +6,6 @@ This repository contains a detailed sample app that implements MVVM architecture
 <p align="center">
   <img src="https://github.com/OmarAliSaid/MVVM-Dagger2-Room-RxJava2-Retrofit/blob/master/screenshot/Screenshot_0.jpeg" width="200"/>
   <img src="https://github.com/OmarAliSaid/MVVM-Dagger2-Room-RxJava2-Retrofit/blob/master/screenshot/Screenshot_1.jpeg" width="200"/>
-  <img src="https://github.com/OmarAliSaid/MVVM-Dagger2-Room-RxJava2-Retrofit/blob/master/screenshot/Screenshot_2.png" width="200"/>
 </p>
 
 ### PreRequests
@@ -28,7 +27,7 @@ This repository contains a detailed sample app that implements MVVM architecture
 ### Meta
 Android Developer : Omar Ali – [@linkedin](https://www.linkedin.com/in/omarali-s/) – omarali0252@gmail.com
 
-### thanks to MindroksOpenSource team :
+### Thanks to MindroksOpenSource team :
 https://github.com/MindorksOpenSource/android-mvvm-architecture
 
 ### Contributing
