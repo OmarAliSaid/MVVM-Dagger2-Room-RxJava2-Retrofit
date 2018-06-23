@@ -8,6 +8,9 @@ This repository contains a detailed sample app that implements MVVM architecture
   <img src="https://github.com/OmarAliSaid/MVVM-Dagger2-Room-RxJava2-Retrofit/blob/master/screenshot/Screenshot_1.jpeg" width="200"/>
 </p>
 
+# Architecture Blueprint
+![Blueprint](https://github.com/OmarAliSaid/MVVM-Dagger2-Room-RxJava2-Retrofit/blob/master/screenshot/Screenshot_2.png)
+
 ### PreRequests
 * closer look on MVVM architecture , you can start <a href="https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b">here</a> 
 * familiar with Dagger2 , if you r not then you can start <a href="https://blog.mindorks.com/a-complete-guide-to-learn-dagger-2-b4c7a570d99c">here</a> 
